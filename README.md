@@ -163,14 +163,6 @@ proximity to the user's budget.
 ### `POST /chatbot`
 
 Sends a message to the Rinder AI housing assistant.
-
-**Request body**
-
-  -----------------------------------------------------------------------
-  Field             Type              Required          Description
-  ----------------- ----------------- ----------------- -----------------
-  `user_id`         string            Yes               Identifies the
-                                                        user's in-memory
                                                         chatbot
                                                         conversation
 
